@@ -1,14 +1,3 @@
-## name ; university user name ; 
-## Shiyu Cai ; s2307982
-## Yifan Wu ; s2316499
-## Yifan Cai ; s2301729
-
-## github repo: https://github.com/eavancai/proj4.git
-
-## Yifan Wu: the code work from begin to calculate step for theta and debugging
-## Shiyu Cai: the code work after calculating step for theta
-## Yifan Cai: test the function, write outlines and comments and debugging
-
 ## outline:(The process of Newton's method for minimizing function)
 
 ## Input the function to minimize, parameters and etc.
